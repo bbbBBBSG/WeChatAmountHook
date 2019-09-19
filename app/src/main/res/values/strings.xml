@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="tips">使用方式：\n在微信发布动态的地方输入￥加多少钱，然后返回提示了\"神秘代码完成\"就表示设置余额成功！如果想显示真实的余额再在发布动态处输入￥然后直接返回就恢复了。</string>
+</resources>
